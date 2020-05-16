@@ -22,7 +22,7 @@ public class Ticket extends JFrame implements ActionListener
     Ticket()
 	{
 	
-			JFrame jf = new JFrame("Train ticket generation system");
+			//JFrame jf = new JFrame("Train ticket generation system");
 			JPanel p = new JPanel();
 			JPanel p1 = new JPanel();
 			String n[]={"0","1","2","3","4","5","6"};   
