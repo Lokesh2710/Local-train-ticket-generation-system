@@ -4,7 +4,6 @@ import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Random;
-
 import javax.swing.*;
 public class Ticket extends JFrame implements ActionListener
 {
